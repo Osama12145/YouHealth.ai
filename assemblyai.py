@@ -1,3 +1,6 @@
+#This code is
+# responsible for converting audio into text and then summarizing 
+# this text using the API on assemblyai
 
 import assemblyai as aai
 
